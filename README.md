@@ -161,3 +161,19 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ---
 
 ### ⭐ Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
+<!---LeetCode Topics End-->
