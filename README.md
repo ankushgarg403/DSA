@@ -191,6 +191,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ankushgarg403/DSA/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/ankushgarg403/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankushgarg403/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -239,5 +240,6 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ankushgarg403/DSA/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankushgarg403/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
