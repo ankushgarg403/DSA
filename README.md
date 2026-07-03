@@ -170,6 +170,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ankushgarg403/DSA/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/ankushgarg403/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankushgarg403/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ankushgarg403/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -187,6 +188,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -213,6 +215,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ankushgarg403/DSA/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/ankushgarg403/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Sliding Window
