@@ -189,6 +189,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | ------- |
 | [0007-reverse-integer](https://github.com/ankushgarg403/DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankushgarg403/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
@@ -221,5 +222,10 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ankushgarg403/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/ankushgarg403/DSA/tree/master/1009-complement-of-base-10-integer) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
