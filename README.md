@@ -212,4 +212,12 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ankushgarg403/DSA/tree/master/0567-permutation-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ankushgarg403/DSA/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ankushgarg403/DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
