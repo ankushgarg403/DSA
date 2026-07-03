@@ -170,6 +170,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ankushgarg403/DSA/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/ankushgarg403/DSA/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/ankushgarg403/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankushgarg403/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -230,4 +231,8 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ankushgarg403/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
