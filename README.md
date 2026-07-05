@@ -203,10 +203,12 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0125-valid-palindrome](https://github.com/ankushgarg403/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankushgarg403/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ankushgarg403/DSA/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankushgarg403/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ankushgarg403/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankushgarg403/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ankushgarg403/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
