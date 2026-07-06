@@ -167,6 +167,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ankushgarg403/DSA/tree/master/0283-move-zeroes) |
@@ -215,6 +216,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ankushgarg403/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
@@ -249,4 +251,8 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | ------- |
 | [0069-sqrtx](https://github.com/ankushgarg403/DSA/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankushgarg403/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
