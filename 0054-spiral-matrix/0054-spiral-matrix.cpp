@@ -13,7 +13,7 @@ public:
         int endingrow = row - 1;
         int endingcol = col - 1;
 
-        for(int i = 0 ; i < total ; i++){
+        while(count < total){
             for(int index = startingcol ;count < total && index <= endingcol ; index++){
                 temp.push_back(matrix[startingrow][index]);
                 count++;
