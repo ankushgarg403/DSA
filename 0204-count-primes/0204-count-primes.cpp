@@ -9,10 +9,10 @@ public:
         for(int  i = 2 ; i < n ; i++){
             if(prime[i]){
                 cnt++;
-            }
 
-            for(int j = i*2 ; j < n ; j = j + i){
-                prime[j] = 0;
+                for(int j = i*2 ; j < n ; j = j + i){
+                    prime[j] = 0;
+                }
             }
         }
         return cnt;
