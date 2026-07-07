@@ -167,6 +167,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
@@ -195,6 +196,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ankushgarg403/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ankushgarg403/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
@@ -254,5 +256,6 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
