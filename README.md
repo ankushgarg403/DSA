@@ -206,6 +206,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankushgarg403/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankushgarg403/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
@@ -251,6 +252,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -283,4 +285,12 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankushgarg403/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
