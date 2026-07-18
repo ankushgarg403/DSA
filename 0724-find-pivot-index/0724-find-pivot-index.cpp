@@ -1,25 +1,29 @@
 class Solution {
+private:
+    int solve(int arr[] , int totalsum , long int left , int s , int n){
+        if(s >= n){
+            return -1;
+        }
+        // for(int i = 0 ; i < n ; i++){
+        //     totalsum += arr[i];
+        // }
+        int right = totalsum - left - arr[s];
+        if(right == left){
+            return s;
+        }
+        left += arr[s];
+        s++;
+        return solve(arr , totalsum , left , s , n);
+    }
 public:
-    int pivotIndex(vector<int>& arr) {
-        int n = arr.size();
-        if(n == 1) return 0;
-
+    int pivotIndex(vector<int>& nums) {
         int totalsum = 0;
-        for(int i = 0 ; i < n ; i++){
-            totalsum = totalsum + arr[i];
+        for(int i = 0 ; i < nums.size() ; i++){
+            totalsum += nums[i];
         }
-        int leftsum = 0;
-        int idx = -1;
-        for(int i = 0 ; i < n ; i++){
-            int rightsum = totalsum - leftsum - arr[i];
-
-            if(leftsum == rightsum){
-                idx = i;
-                break;
-            }
-
-            leftsum += arr[i];
-        }
-        return idx;
+        int n = nums.size();
+        long int left = 0;
+        int ans = solve(nums.data() , totalsum , left , 0 , n);
+        return ans;
     }
 };
