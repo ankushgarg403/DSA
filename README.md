@@ -167,6 +167,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankushgarg403/DSA/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ankushgarg403/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -230,6 +231,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankushgarg403/DSA/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ankushgarg403/DSA/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/ankushgarg403/DSA/tree/master/1207-unique-number-of-occurrences) |
