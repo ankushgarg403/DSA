@@ -180,6 +180,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/ankushgarg403/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankushgarg403/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/ankushgarg403/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankushgarg403/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -208,6 +209,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0204-count-primes](https://github.com/ankushgarg403/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankushgarg403/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
@@ -291,8 +293,21 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
