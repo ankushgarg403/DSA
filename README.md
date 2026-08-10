@@ -170,6 +170,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0001-two-sum](https://github.com/ankushgarg403/DSA/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/ankushgarg403/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ankushgarg403/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
@@ -204,6 +205,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | ------- |
 | [0007-reverse-integer](https://github.com/ankushgarg403/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ankushgarg403/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ankushgarg403/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankushgarg403/DSA/tree/master/0204-count-primes) |
