@@ -5,21 +5,20 @@ public:
         int col = matrix[0].size();
 
         int rowindex = 0;
-        int colindex = col - 1;
+        int colindex = col-1;
 
         while(rowindex < row && colindex >= 0){
             int el = matrix[rowindex][colindex];
-
             if(el == target){
-                return 1;
+                return true;
             }
-            if(el < target){
+            if(target > el){
                 rowindex++;
             }
             else{
                 colindex--;
             }
         }
-        return 0;
+        return false;
     }
 };
