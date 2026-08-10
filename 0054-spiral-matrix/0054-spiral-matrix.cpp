@@ -1,43 +1,37 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        vector<int> temp;
-        int row = matrix.size();
-        int col = matrix[0].size();
+        vector<int> ans;
+
+        int total = matrix.size() *matrix[0].size();
+        int sr = 0;
+        int sc = 0;
+        int er = matrix.size()-1;
+        int ec = matrix[0].size()-1;
 
         int count = 0;
-        int total = row*col;
-
-        int startingrow = 0;
-        int startingcol = 0;
-        int endingrow = row - 1;
-        int endingcol = col - 1;
-
-        while(count < total){
-            for(int index = startingcol ;count < total && index <= endingcol ; index++){
-                temp.push_back(matrix[startingrow][index]);
+        while(total > count){
+            for(int i = sc ;count < total && i <= ec ; i++){
+                ans.push_back(matrix[sr][i]);
                 count++;
             }
-            startingrow++;
-
-            for(int index = startingrow ;count < total && index <= endingrow ; index++){
-                temp.push_back(matrix[index][endingcol]);
+            sr++;
+            for(int i = sr ;count < total && i <= er ; i++){
+                ans.push_back(matrix[i][ec]);
                 count++;
             }
-            endingcol--;
-
-            for(int index = endingcol ;count < total && index >= startingcol ; index--){
-                temp.push_back(matrix[endingrow][index]);
+            ec--;
+            for(int i = ec ;count < total && i >= sc ; i--){
+                ans.push_back(matrix[er][i]);
                 count++;
             }
-            endingrow--;
-
-            for(int index = endingrow ;count < total && index >= startingrow ; index--){
-                temp.push_back(matrix[index][startingcol]);
+            er--;
+            for(int i = er ;count < total && i >= sr ; i--){
+                ans.push_back(matrix[i][sc]);
                 count++;
             }
-            startingcol++;
+            sc++;
         }
-        return temp;
+        return ans;
     }
 };
