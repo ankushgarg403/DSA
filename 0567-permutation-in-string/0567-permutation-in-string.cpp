@@ -1,55 +1,45 @@
 class Solution {
-private:
-    bool checkequal(int a[26] , int b[26]){
-        for(int i = 0 ; i < 26 ; i++){
-            if(a[i] != b[i]){
-                return 0;
-            }
-        }
-        return 1;
-    }
 public:
-    bool checkInclusion(string s1, string s2) {
-
-        // Charater count array
-        int count1[26] ={0};
-        for(int i = 0 ; i < s1.length() ; i++){
-            int index = s1[i] - 'a';
-            count1[index]++;
-        }
-
-        // transverse s2 string in window of size s1 length and compare
-        int i = 0;
-        int count2[26] = {0};
-        int windowsize = s1.length();
-
-        // Running for first window
-        while(i < windowsize && i < s2.length()){
-            int index = s2[i] - 'a';
-            count2[index]++;
-            i++;
-        }
-
-        if(checkequal(count1,count2)){
-            return 1;
-        }
-
-        // Next window processing
-        while(i < s2.length()){
-            char newchar = s2[i];
-            int index = newchar - 'a';
-            count2[index]++;
-
-            char oldchar = s2[i - windowsize];
-            index = oldchar - 'a';
-            count2[index]--;
-
-            i++;
-
-            if(checkequal(count1,count2)){
-                return 1;
+    bool ismatched(int arr1[] , int arr2[]){
+        for(int i = 0 ; i < 26 ; i++){
+            if(arr1[i] != arr2[i]){
+                return false;
             }
         }
-        return 0;
+        return true;
+    }
+
+    bool checkInclusion(string s1, string s2) {
+        int n = s1.size();
+        int m = s2.size();
+        if(n > m) return false;
+
+        int arr1[26] = {0};
+        int arr2[26] = {0};
+
+        for(int i = 0 ; i < n ; i++){
+            int index1 = s1[i] - 'a';
+            arr1[index1]++;
+        }
+        for(int i = 0 ; i < n ; i++){
+            int index2 = s2[i] - 'a';
+            arr2[index2]++;
+        }
+
+        if(ismatched(arr1,arr2)){
+            return true;
+        }
+
+        for(int i = 1 ; i <= m-n ; i++){
+            int index1 = s2[i-1] - 'a';
+            int index2 = s2[i+n-1] - 'a';
+            arr2[index1]--;
+            arr2[index2]++;
+
+            if(ismatched(arr1,arr2)){
+                return true;
+            }
+        }
+        return false;
     }
 };
