@@ -172,6 +172,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ankushgarg403/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ankushgarg403/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ankushgarg403/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankushgarg403/DSA/tree/master/0204-count-primes) |
@@ -251,6 +252,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ankushgarg403/DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/ankushgarg403/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/ankushgarg403/DSA/tree/master/1009-complement-of-base-10-integer) |
@@ -312,4 +314,8 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ankushgarg403/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
