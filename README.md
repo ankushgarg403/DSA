@@ -168,6 +168,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankushgarg403/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/ankushgarg403/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ankushgarg403/DSA/tree/master/0066-plus-one) |
@@ -188,6 +189,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ankushgarg403/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ankushgarg403/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
