@@ -169,6 +169,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | ------- |
 | [0001-two-sum](https://github.com/ankushgarg403/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/ankushgarg403/DSA/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/ankushgarg403/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ankushgarg403/DSA/tree/master/0066-plus-one) |
@@ -322,5 +323,6 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankushgarg403/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/ankushgarg403/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ankushgarg403/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
