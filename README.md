@@ -209,6 +209,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | ------- |
 | [0007-reverse-integer](https://github.com/ankushgarg403/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/ankushgarg403/DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/ankushgarg403/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ankushgarg403/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
@@ -264,6 +265,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/ankushgarg403/DSA/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
