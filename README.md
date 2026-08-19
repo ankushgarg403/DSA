@@ -266,6 +266,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/ankushgarg403/DSA/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
@@ -327,4 +328,8 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankushgarg403/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/ankushgarg403/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ankushgarg403/DSA/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
