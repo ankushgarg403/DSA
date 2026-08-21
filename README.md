@@ -272,6 +272,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankushgarg403/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/ankushgarg403/DSA/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/ankushgarg403/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
@@ -341,6 +342,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankushgarg403/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ankushgarg403/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankushgarg403/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/ankushgarg403/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
