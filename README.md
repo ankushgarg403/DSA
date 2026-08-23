@@ -213,6 +213,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankushgarg403/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ankushgarg403/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ankushgarg403/DSA/tree/master/0060-permutation-sequence) |
@@ -275,6 +276,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankushgarg403/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ankushgarg403/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankushgarg403/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/ankushgarg403/DSA/tree/master/0060-permutation-sequence) |
@@ -345,6 +347,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankushgarg403/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ankushgarg403/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankushgarg403/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankushgarg403/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
