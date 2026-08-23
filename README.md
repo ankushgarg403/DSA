@@ -195,6 +195,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0125-valid-palindrome](https://github.com/ankushgarg403/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ankushgarg403/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankushgarg403/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ankushgarg403/DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ankushgarg403/DSA/tree/master/0283-move-zeroes) |
@@ -206,6 +207,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ankushgarg403/DSA/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankushgarg403/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
@@ -260,6 +262,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ankushgarg403/DSA/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/ankushgarg403/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankushgarg403/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
@@ -347,6 +350,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankushgarg403/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ankushgarg403/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankushgarg403/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ankushgarg403/DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ankushgarg403/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0234-palindrome-linked-list) |
@@ -356,4 +360,8 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankushgarg403/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankushgarg403/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ankushgarg403/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
