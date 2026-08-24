@@ -251,6 +251,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | ------- |
 | [0001-two-sum](https://github.com/ankushgarg403/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankushgarg403/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0138-copy-list-with-random-pointer](https://github.com/ankushgarg403/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ankushgarg403/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankushgarg403/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -351,6 +352,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0021-merge-two-sorted-lists](https://github.com/ankushgarg403/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankushgarg403/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankushgarg403/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/ankushgarg403/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ankushgarg403/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankushgarg403/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ankushgarg403/DSA/tree/master/0148-sort-list) |
