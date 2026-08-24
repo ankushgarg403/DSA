@@ -44,7 +44,7 @@ public:
 
         Node* original = head;
         Node* clone = clonehead;
-        while(original != NULL && clone != NULL){
+        while(original != NULL){
             m[original] = clone;
             original = original -> next;
             clone = clone -> next;
@@ -53,7 +53,7 @@ public:
         original = head;
         clone = clonehead;
 
-        while(original != NULL && clone != NULL){
+        while(original != NULL){
             clone -> random = m[original -> random];
             original = original -> next;
             clone = clone -> next;
