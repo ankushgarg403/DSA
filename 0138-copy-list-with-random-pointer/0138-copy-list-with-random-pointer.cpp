@@ -23,43 +23,60 @@ private:
             tail = clone;
             return;
         }
-        tail -> next = clone;
-        tail = clone;
+        else{
+            tail -> next = clone;
+            tail = clone;
+        }
     }
 public:
     Node* copyRandomList(Node* head) {
-        // Step-1 -> Clone only next pointer
-        Node* clonehead = NULL;
-        Node* clonetail = NULL;
-
+        // Step-1 -> Clone the node
         Node* temp = head;
 
+        Node* clonehead = NULL;
+        Node* clonetail = NULL;
         while(temp != NULL){
-            insertattail(clonehead,clonetail,temp->val);
+            insertattail(clonehead , clonetail , temp -> val);
             temp = temp -> next;
         }
 
-        // Step-2 -> Create a map
-        unordered_map<Node*,Node*> m;
-
-        Node* original = head;
+        // Step-2 -> Add clone node between original nodes
         Node* clone = clonehead;
-        while(original != NULL){
-            m[original] = clone;
-            original = original -> next;
-            clone = clone -> next;
+        Node* original = head;
+        while(clone != NULL && original != NULL){
+            // For original Nodes
+            Node* next = original -> next;
+            original -> next = clone;
+            original = next;
+
+            // For clone Nodes
+            next = clone -> next;
+            clone -> next = original;
+            clone = next;
         }
 
+        // Step-3 -> Random pointer copy
+        temp = head;
+        while(temp != NULL){
+            if(temp -> next != NULL){
+                temp -> next -> random = temp -> random ? temp -> random -> next : temp -> random;
+            }
+            temp = temp -> next -> next;
+        }
+
+        // Step-4 -> Revert the changes
         original = head;
         clone = clonehead;
-
-        while(original != NULL){
-            clone -> random = m[original -> random];
+        while(clone != NULL && original != NULL){
+            original -> next = clone -> next;
             original = original -> next;
+
+            if(original != NULL){
+                clone -> next = original -> next;
+            }
             clone = clone -> next;
         }
 
         return clonehead;
-
     }
 };
