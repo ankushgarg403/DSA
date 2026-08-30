@@ -101,7 +101,7 @@ Problems are solved from:
 | Strings | ✅ |
 | Searching | ✅ |
 | Sorting | ✅ |
-| Recursion | ⏳ |
+| Recursion | ✅ |
 | Linked List | ⏳ |
 | Stack | ⏳ |
 | Queue | ⏳ |
