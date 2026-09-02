@@ -230,6 +230,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankushgarg403/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/ankushgarg403/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ankushgarg403/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankushgarg403/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ankushgarg403/DSA/tree/master/0443-string-compression) |
@@ -239,6 +240,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankushgarg403/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankushgarg403/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ankushgarg403/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -371,4 +373,8 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ankushgarg403/DSA/tree/master/0148-sort-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankushgarg403/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
