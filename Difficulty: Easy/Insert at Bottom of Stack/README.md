@@ -1,0 +1,11 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack/1">Insert at Bottom of Stack</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p class="PDq2pG_selectionAnchorContainer" data-start="98" data-end="199"><span style="font-size: 14pt;">Given a stack st containing n integers and an integer x, insert x at the bottom of the stack.</span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p data-start="201" data-end="279" data-is-last-node="" data-is-only-node=""><span style="font-size: 14pt;"><strong data-start="201" data-end="210">Note:</strong> While displaying the stack, the bottommost element is printed first.</span></p>
+<p><strong><span style="font-size: 18px;">Examples :</span></strong></p>
+<pre><strong><span style="font-size: 18px;">Input:</span></strong><span style="font-size: 18px;"> st = [4, 3, 2, 1, 8], x = 2</span><strong><span style="font-size: 18px;">
+Output: </span></strong><span style="font-size: 18px;">[2, 4, 3, 2, 1, 8]</span><strong><span style="font-size: 18px;">
+Explanation: </span></strong><span style="font-size: 18px;">After insertion of 2, the final stack will be [2,4,3,2,1,8].</span></pre>
+<pre><strong><span style="font-size: 18px;">Input:</span></strong><span style="font-size: 18px;"> st = [5, 3, 1], x = 4</span><strong><span style="font-size: 18px;">
+Output: </span></strong><span style="font-size: 18px;">[4, 5, 3, 1]</span><strong><span style="font-size: 18px;">
+Explanation: </span></strong><span style="font-size: 18px;">After insertion of 4, the final stack will be [4,5,3,1].</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1&nbsp;</span><span style="font-size: 18px;">≤</span><span style="font-size: 18px;"> n&nbsp;</span><span style="font-size: 18px;">≤</span><span style="font-size: 18px;">&nbsp;10</span><sup>5<br></sup><span style="font-size: 18px;">0&nbsp;</span><span style="font-size: 18px;">≤</span><span style="font-size: 18px;"> x, elements of stack&nbsp;</span><span style="font-size: 18px;">≤</span><span style="font-size: 18px;">&nbsp;10</span><sup>9</sup></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Recursion</code>&nbsp;<code>Stack</code>&nbsp;<code>implementation</code>&nbsp;
