@@ -14,10 +14,6 @@ public:
         if(head -> next == NULL){
             return NULL;
         }
-        if(head -> next -> next == NULL){
-            head -> next = NULL;
-            return head;
-        }
 
         ListNode* fast = head -> next -> next;
         ListNode* slow = head;
@@ -29,9 +25,9 @@ public:
                 fast = fast -> next;
             }
         }
-        ListNode* temp = slow -> next;
-        slow -> next = temp -> next;
-        temp -> next = NULL;
+        // ListNode* temp = slow -> next;
+        slow -> next = slow -> next -> next;
+        // temp -> next = NULL;
 
         return head;
 
