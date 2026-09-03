@@ -1,19 +1,21 @@
 class Solution {
+  private:
+    void solve(stack<int> &st , int x){
+        if(st.empty()){
+            st.push(x);
+            return;
+        }
+        
+        int num = st.top();
+        st.pop();
+        
+        solve(st,x);
+        
+        st.push(num);
+    }
   public:
     stack<int> insertAtBottom(stack<int> &st, int x) {
-        vector<int> s;
-        while(!st.empty()){
-            s.push_back(st.top());
-            st.pop();
-        }
-        
-        s.push_back(x);
-        int len = s.size() - 1;
-        
-        while(len >= 0){
-            st.push(s[len]);
-            len--;
-        }
+        solve(st,x);
         
         return st;
     }
