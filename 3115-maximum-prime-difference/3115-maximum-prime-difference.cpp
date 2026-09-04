@@ -1,30 +1,31 @@
 class Solution {
+private:
+    bool is_prime(int n){
+        if(n < 2){
+            return false;
+        }
+
+        for(int i = 2 ; i <= sqrt(n) ; i++){
+            if(n%i == 0){
+                return false;
+            }
+        }
+
+        return true;
+    }
 public:
     int maximumPrimeDifference(vector<int>& nums) {
-        vector<int> ans;
-
-        int max = *max_element(nums.begin() , nums.end());
-
-        vector<bool> prime(max+1,true);
-        prime[0] = prime[1] = false;
-        
-        for(int i = 2 ; i < max ; i++){
-            if(prime[i]){
-                for(int j = i*i ; j <= max ; j = j + i){
-                    prime[j] = false;
-                }
-            }
-        }
+        int first = -1;
+        int last = -1;
 
         for(int i = 0 ; i < nums.size() ; i++){
-            if(prime[nums[i]]){
-                ans.push_back(i);
+            if(is_prime(nums[i])){
+                if(first == -1) first = i;
+
+                last = i;
             }
         }
 
-        int distance = *max_element(ans.begin() , ans.end()) - 
-                       *min_element(ans.begin() , ans.end());
-
-        return distance;
+        return last - first;
     }
 };
