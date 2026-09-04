@@ -4,8 +4,10 @@ public:
         vector<int> ans;
 
         int max = *max_element(nums.begin() , nums.end());
+
         vector<bool> prime(max+1,true);
         prime[0] = prime[1] = false;
+        
         for(int i = 2 ; i < max ; i++){
             if(prime[i]){
                 for(int j = i*i ; j <= max ; j = j + i){
