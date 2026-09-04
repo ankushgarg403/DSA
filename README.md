@@ -187,6 +187,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/ankushgarg403/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankushgarg403/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3115-maximum-prime-difference](https://github.com/ankushgarg403/DSA/tree/master/3115-maximum-prime-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +227,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankushgarg403/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3115-maximum-prime-difference](https://github.com/ankushgarg403/DSA/tree/master/3115-maximum-prime-difference) |
 ## String
 |  |
 | ------- |
@@ -317,6 +319,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankushgarg403/DSA/tree/master/0204-count-primes) |
+| [3115-maximum-prime-difference](https://github.com/ankushgarg403/DSA/tree/master/3115-maximum-prime-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -377,4 +380,8 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankushgarg403/DSA/tree/master/0020-valid-parentheses) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/ankushgarg403/DSA/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
