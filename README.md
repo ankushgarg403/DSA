@@ -217,6 +217,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankushgarg403/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ankushgarg403/DSA/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/ankushgarg403/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ankushgarg403/DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/ankushgarg403/DSA/tree/master/0066-plus-one) |
@@ -231,6 +232,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ankushgarg403/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankushgarg403/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ankushgarg403/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ankushgarg403/DSA/tree/master/0125-valid-palindrome) |
@@ -257,6 +259,7 @@ If you find this repository helpful, don't forget to **Star ⭐** it.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankushgarg403/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ankushgarg403/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankushgarg403/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/ankushgarg403/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ankushgarg403/DSA/tree/master/0141-linked-list-cycle) |
