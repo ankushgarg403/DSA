@@ -1,400 +1,111 @@
-# 📚 Data Structures & Algorithms (DSA)
+# 🚀 TUF-Solutions
 
-Welcome to my **Data Structures & Algorithms** repository! 🚀
+> Auto-synced using [TUFHub](https://github.com/Arora-Sir/TUFHub) - Solutions for [TakeUForward (TUF+)](https://takeuforward.org/plus?affiliate=arorasir)
 
-This repository contains my solutions to DSA problems from various coding platforms along with implementations of common algorithms and data structures in **C++**.
+## 📊 Solution Progress Summary
 
----
-
-## 🎯 Goals
-
-- Improve problem-solving skills
-- Master Data Structures and Algorithms
-- Prepare for coding interviews
-- Build a strong GitHub portfolio
-- Practice consistently
+| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
+| :---: | :---: | :---: | :---: | :---: |
+| **89** | 0 | 89 | 0 | `2026-09-10` |
 
 ---
 
-## 💻 Language
+## 🗂️ Solved Problems Index
 
-- C++
-
----
-
-## 📂 Repository Structure
-
-```
-DSA/
-│
-├── Arrays/
-├── Strings/
-├── Searching/
-├── Sorting/
-├── Recursion/
-├── Bit Manipulation/
-├── Mathematics/
-├── Linked List/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Binary Search Tree/
-├── Heap/
-├── Hashing/
-├── Graph/
-├── Dynamic Programming/
-├── Greedy/
-├── Backtracking/
-├── Trie/
-├── Segment Tree/
-├── Sliding Window/
-├── Two Pointers/
-└── Miscellaneous/
-```
-
----
-
-## 📖 Topics Covered
-
-- ✅ Arrays
-- ✅ Strings
-- ✅ Binary Search
-- ✅ Sorting Algorithms
-- ✅ Recursion
-- ✅ Bit Manipulation
-- ✅ Mathematics
-- ✅ Linked List
-- ✅ Stack
-- ✅ Queue
-- ✅ Trees
-- ✅ Binary Search Tree
-- ✅ Heap
-- ✅ Hashing
-- ✅ Graphs
-- ✅ Dynamic Programming
-- ✅ Greedy Algorithms
-- ✅ Backtracking
-- ✅ Trie
-- ✅ Segment Tree
-- ✅ Sliding Window
-- ✅ Two Pointers
-
----
-
-## 🧠 Coding Platforms
-
-Problems are solved from:
-
-- LeetCode
-- CodeStudio
-- GeeksforGeeks
-- HackerRank
-- Codeforces
-
----
-
-## 📈 Progress
-
-| Topic | Status |
-|--------|--------|
-| Arrays | ✅ |
-| Strings | ✅ |
-| Searching | ✅ |
-| Sorting | ✅ |
-| Recursion | ✅ |
-| Linked List | ⏳ |
-| Stack | ⏳ |
-| Queue | ⏳ |
-| Trees | ⏳ |
-| Graph | ⏳ |
-| Dynamic Programming | ⏳ |
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/DSA.git
-```
-
-2. Open any `.cpp` file.
-
-3. Compile
-
-```bash
-g++ filename.cpp -o output
-```
-
-4. Run
-
-```bash
-./output
-```
+| # | Title | Solution(s) | Difficulty | Category |
+| :---: | :--- | :---: | :---: | :--- |
+| 0001 | [0001 Two Sum](./0001-two-sum) | [0001-two-sum](./0001-two-sum/0001-two-sum.cpp) | 🟡 Medium | `0001-two-sum` |
+| 0002 | [0002 Add Two Numbers](./0002-add-two-numbers) | [0002-add-two-numbers](./0002-add-two-numbers/0002-add-two-numbers.cpp) | 🟡 Medium | `0002-add-two-numbers` |
+| 0003 | [0007 Reverse Integer](./0007-reverse-integer) | [0007-reverse-integer](./0007-reverse-integer/0007-reverse-integer.cpp) | 🟡 Medium | `0007-reverse-integer` |
+| 0004 | [0012 Integer To Roman](./0012-integer-to-roman) | [0012-integer-to-roman](./0012-integer-to-roman/0012-integer-to-roman.cpp) | 🟡 Medium | `0012-integer-to-roman` |
+| 0005 | [0013 Roman To Integer](./0013-roman-to-integer) | [0013-roman-to-integer](./0013-roman-to-integer/0013-roman-to-integer.cpp) | 🟡 Medium | `0013-roman-to-integer` |
+| 0006 | [0017 Letter Combinations Of A Phone Number](./0017-letter-combinations-of-a-phone-number) | [0017-letter-combinations-of-a-phone-number](./0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.cpp) | 🟡 Medium | `0017-letter-combinations-of-a-phone-number` / `Recursion` |
+| 0007 | [0020 Valid Parentheses](./0020-valid-parentheses) | [0020-valid-parentheses](./0020-valid-parentheses/0020-valid-parentheses.cpp) | 🟡 Medium | `0020-valid-parentheses` / `Recursion` |
+| 0008 | [0021 Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | [0021-merge-two-sorted-lists](./0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp) | 🟡 Medium | `0021-merge-two-sorted-lists` |
+| 0009 | [0025 Reverse Nodes In K Group](./0025-reverse-nodes-in-k-group) | [0025-reverse-nodes-in-k-group](./0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.cpp) | 🟡 Medium | `0025-reverse-nodes-in-k-group` |
+| 0010 | [0031 Next Permutation](./0031-next-permutation) | [0031-next-permutation](./0031-next-permutation/0031-next-permutation.cpp) | 🟡 Medium | `0031-next-permutation` / `Recursion` |
+| 0011 | [0046 Permutations](./0046-permutations) | [0046-permutations](./0046-permutations/0046-permutations.cpp) | 🟡 Medium | `0046-permutations` / `Recursion` |
+| 0012 | [0048 Rotate Image](./0048-rotate-image) | [0048-rotate-image](./0048-rotate-image/0048-rotate-image.cpp) | 🟡 Medium | `0048-rotate-image` |
+| 0013 | [0054 Spiral Matrix](./0054-spiral-matrix) | [0054-spiral-matrix](./0054-spiral-matrix/0054-spiral-matrix.cpp) | 🟡 Medium | `0054-spiral-matrix` / `Arrays` |
+| 0014 | [0060 Permutation Sequence](./0060-permutation-sequence) | [0060-permutation-sequence](./0060-permutation-sequence/0060-permutation-sequence.cpp) | 🟡 Medium | `0060-permutation-sequence` / `Recursion` |
+| 0015 | [0066 Plus One](./0066-plus-one) | [0066-plus-one](./0066-plus-one/0066-plus-one.cpp) | 🟡 Medium | `0066-plus-one` |
+| 0016 | [0069 Sqrtx](./0069-sqrtx) | [0069-sqrtx](./0069-sqrtx/0069-sqrtx.cpp) | 🟡 Medium | `0069-sqrtx` |
+| 0017 | [0074 Search A 2d Matrix](./0074-search-a-2d-matrix) | [0074-search-a-2d-matrix](./0074-search-a-2d-matrix/0074-search-a-2d-matrix.cpp) | 🟡 Medium | `0074-search-a-2d-matrix` / `Binary-Search` |
+| 0018 | [0078 Subsets](./0078-subsets) | [0078-subsets](./0078-subsets/0078-subsets.cpp) | 🟡 Medium | `0078-subsets` / `Recursion` |
+| 0019 | [0083 Remove Duplicates From Sorted List](./0083-remove-duplicates-from-sorted-list) | [0083-remove-duplicates-from-sorted-list](./0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.cpp) | 🟡 Medium | `0083-remove-duplicates-from-sorted-list` |
+| 0020 | [0088 Merge Sorted Array](./0088-merge-sorted-array) | [0088-merge-sorted-array](./0088-merge-sorted-array/0088-merge-sorted-array.cpp) | 🟡 Medium | `0088-merge-sorted-array` / `Arrays` |
+| 0021 | [0125 Valid Palindrome](./0125-valid-palindrome) | [0125-valid-palindrome](./0125-valid-palindrome/0125-valid-palindrome.cpp) | 🟡 Medium | `0125-valid-palindrome` |
+| 0022 | [0138 Copy List With Random Pointer](./0138-copy-list-with-random-pointer) | [0138-copy-list-with-random-pointer](./0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.cpp) | 🟡 Medium | `0138-copy-list-with-random-pointer` |
+| 0023 | [0141 Linked List Cycle](./0141-linked-list-cycle) | [0141-linked-list-cycle](./0141-linked-list-cycle/0141-linked-list-cycle.cpp) | 🟡 Medium | `0141-linked-list-cycle` / `Linked-List` |
+| 0024 | [0142 Linked List Cycle Ii](./0142-linked-list-cycle-ii) | [0142-linked-list-cycle-ii](./0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp) | 🟡 Medium | `0142-linked-list-cycle-ii` / `Linked-List` |
+| 0025 | [0148 Sort List](./0148-sort-list) | [0148-sort-list](./0148-sort-list/0148-sort-list.cpp) | 🟡 Medium | `0148-sort-list` |
+| 0026 | [0189 Rotate Array](./0189-rotate-array) | [0189-rotate-array](./0189-rotate-array/0189-rotate-array.cpp) | 🟡 Medium | `0189-rotate-array` / `Arrays` |
+| 0027 | [0191 Number Of 1 Bits](./0191-number-of-1-bits) | [0191-number-of-1-bits](./0191-number-of-1-bits/0191-number-of-1-bits.cpp) | 🟡 Medium | `0191-number-of-1-bits` / `Bit-Manipulation` |
+| 0028 | [0203 Remove Linked List Elements](./0203-remove-linked-list-elements) | [0203-remove-linked-list-elements](./0203-remove-linked-list-elements/0203-remove-linked-list-elements.cpp) | 🟡 Medium | `0203-remove-linked-list-elements` / `Linked-List` |
+| 0029 | [0204 Count Primes](./0204-count-primes) | [0204-count-primes](./0204-count-primes/0204-count-primes.cpp) | 🟡 Medium | `0204-count-primes` |
+| 0030 | [0206 Reverse Linked List](./0206-reverse-linked-list) | [0206-reverse-linked-list](./0206-reverse-linked-list/0206-reverse-linked-list.cpp) | 🟡 Medium | `0206-reverse-linked-list` / `Linked-List` |
+| 0031 | [0231 Power Of Two](./0231-power-of-two) | [0231-power-of-two](./0231-power-of-two/0231-power-of-two.cpp) | 🟡 Medium | `0231-power-of-two` |
+| 0032 | [0234 Palindrome Linked List](./0234-palindrome-linked-list) | [0234-palindrome-linked-list](./0234-palindrome-linked-list/0234-palindrome-linked-list.cpp) | 🟡 Medium | `0234-palindrome-linked-list` / `Linked-List` |
+| 0033 | [0240 Search A 2d Matrix Ii](./0240-search-a-2d-matrix-ii) | [0240-search-a-2d-matrix-ii](./0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.cpp) | 🟡 Medium | `0240-search-a-2d-matrix-ii` / `Binary-Search` |
+| 0034 | [0283 Move Zeroes](./0283-move-zeroes) | [0283-move-zeroes](./0283-move-zeroes/0283-move-zeroes.cpp) | 🟡 Medium | `0283-move-zeroes` |
+| 0035 | [0344 Reverse String](./0344-reverse-string) | [0344-reverse-string](./0344-reverse-string/0344-reverse-string.cpp) | 🟡 Medium | `0344-reverse-string` / `Strings` |
+| 0036 | [0378 Kth Smallest Element In A Sorted Matrix](./0378-kth-smallest-element-in-a-sorted-matrix) | [0378-kth-smallest-element-in-a-sorted-matrix](./0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.cpp) | 🟡 Medium | `0378-kth-smallest-element-in-a-sorted-matrix` / `Linked-List` |
+| 0037 | [0442 Find All Duplicates In An Array](./0442-find-all-duplicates-in-an-array) | [0442-find-all-duplicates-in-an-array](./0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.cpp) | 🟡 Medium | `0442-find-all-duplicates-in-an-array` / `Linked-List` |
+| 0038 | [0443 String Compression](./0443-string-compression) | [0443-string-compression](./0443-string-compression/0443-string-compression.cpp) | 🟡 Medium | `0443-string-compression` / `Strings` |
+| 0039 | [0509 Fibonacci Number](./0509-fibonacci-number) | [0509-fibonacci-number](./0509-fibonacci-number/0509-fibonacci-number.cpp) | 🟡 Medium | `0509-fibonacci-number` |
+| 0040 | [0567 Permutation In String](./0567-permutation-in-string) | [0567-permutation-in-string](./0567-permutation-in-string/0567-permutation-in-string.cpp) | 🟡 Medium | `0567-permutation-in-string` / `Recursion` |
+| 0041 | [0724 Find Pivot Index](./0724-find-pivot-index) | [0724-find-pivot-index](./0724-find-pivot-index/0724-find-pivot-index.cpp) | 🟡 Medium | `0724-find-pivot-index` |
+| 0042 | [0852 Peak Index In A Mountain Array](./0852-peak-index-in-a-mountain-array) | [0852-peak-index-in-a-mountain-array](./0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.cpp) | 🟡 Medium | `0852-peak-index-in-a-mountain-array` / `Arrays` |
+| 0043 | [0876 Middle Of The Linked List](./0876-middle-of-the-linked-list) | [0876-middle-of-the-linked-list](./0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.cpp) | 🟡 Medium | `0876-middle-of-the-linked-list` / `Linked-List` |
+| 0044 | [0877 Stone Game](./0877-stone-game) | [0877-stone-game](./0877-stone-game/0877-stone-game.cpp) | 🟡 Medium | `0877-stone-game` |
+| 0045 | [0921 Minimum Add To Make Parentheses Valid](./0921-minimum-add-to-make-parentheses-valid) | [0921-minimum-add-to-make-parentheses-valid](./0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp) | 🟡 Medium | `0921-minimum-add-to-make-parentheses-valid` / `Recursion` |
+| 0046 | [1009 Complement Of Base 10 Integer](./1009-complement-of-base-10-integer) | [1009-complement-of-base-10-integer](./1009-complement-of-base-10-integer/1009-complement-of-base-10-integer.cpp) | 🟡 Medium | `1009-complement-of-base-10-integer` |
+| 0047 | [1047 Remove All Adjacent Duplicates In String](./1047-remove-all-adjacent-duplicates-in-string) | [1047-remove-all-adjacent-duplicates-in-string](./1047-remove-all-adjacent-duplicates-in-string/1047-remove-all-adjacent-duplicates-in-string.cpp) | 🟡 Medium | `1047-remove-all-adjacent-duplicates-in-string` / `Linked-List` |
+| 0048 | [1207 Unique Number Of Occurrences](./1207-unique-number-of-occurrences) | [1207-unique-number-of-occurrences](./1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.cpp) | 🟡 Medium | `1207-unique-number-of-occurrences` |
+| 0049 | [1752 Check If Array Is Sorted And Rotated](./1752-check-if-array-is-sorted-and-rotated) | [1752-check-if-array-is-sorted-and-rotated](./1752-check-if-array-is-sorted-and-rotated/1752-check-if-array-is-sorted-and-rotated.cpp) | 🟡 Medium | `1752-check-if-array-is-sorted-and-rotated` / `Arrays` |
+| 0050 | [1910 Remove All Occurrences Of A Substring](./1910-remove-all-occurrences-of-a-substring) | [1910-remove-all-occurrences-of-a-substring](./1910-remove-all-occurrences-of-a-substring/1910-remove-all-occurrences-of-a-substring.cpp) | 🟡 Medium | `1910-remove-all-occurrences-of-a-substring` / `Linked-List` |
+| 0051 | [2095 Delete The Middle Node Of A Linked List](./2095-delete-the-middle-node-of-a-linked-list) | [2095-delete-the-middle-node-of-a-linked-list](./2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp) | 🟡 Medium | `2095-delete-the-middle-node-of-a-linked-list` / `Linked-List` |
+| 0052 | [3115 Maximum Prime Difference](./3115-maximum-prime-difference) | [3115-maximum-prime-difference](./3115-maximum-prime-difference/3115-maximum-prime-difference.cpp) | 🟡 Medium | `3115-maximum-prime-difference` |
+| 0053 | [Add Number Linked Lists](./Difficulty%3A%20Medium/Add%20Number%20Linked%20Lists) | [add-number-linked-lists](./Difficulty%3A%20Medium/Add%20Number%20Linked%20Lists/add-number-linked-lists.cpp) | 🟡 Medium | `Difficulty: Medium` / `Linked-List` |
+| 0054 | [Celebrity Problem](./Difficulty%3A%20Medium/Celebrity%20Problem) | [celebrity-problem](./Difficulty%3A%20Medium/Celebrity%20Problem/celebrity-problem.cpp) | 🟡 Medium | `Difficulty: Medium` |
+| 0055 | [Check Redundant Brackets](./Difficulty%3A%20Medium/Check%20Redundant%20Brackets) | [check-redundant-brackets](./Difficulty%3A%20Medium/Check%20Redundant%20Brackets/check-redundant-brackets.cpp) | 🟡 Medium | `Difficulty: Medium` |
+| 0056 | [Clone List With Next And Random](./Difficulty%3A%20Hard/Clone%20List%20with%20Next%20and%20Random) | [clone-list-with-next-and-random](./Difficulty%3A%20Hard/Clone%20List%20with%20Next%20and%20Random/clone-list-with-next-and-random.cpp) | 🟡 Medium | `Difficulty: Hard` |
+| 0057 | [Delete Mid Of A Stack](./Difficulty%3A%20Easy/Delete%20Mid%20of%20a%20Stack) | [delete-mid-of-a-stack](./Difficulty%3A%20Easy/Delete%20Mid%20of%20a%20Stack/delete-mid-of-a-stack.cpp) | 🟡 Medium | `Difficulty: Easy` / `Stack-Queue` |
+| 0058 | [Detect Loop In Linked List](./Difficulty%3A%20Medium/Detect%20Loop%20in%20linked%20list) | [detect-loop-in-linked-list](./Difficulty%3A%20Medium/Detect%20Loop%20in%20linked%20list/detect-loop-in-linked-list.cpp) | 🟡 Medium | `Difficulty: Medium` / `Linked-List` |
+| 0059 | [Digits In N That Divide It](./Difficulty%3A%20Medium/Digits%20in%20N%20that%20Divide%20it) | [digits-in-n-that-divide-it](./Difficulty%3A%20Medium/Digits%20in%20N%20that%20Divide%20it/digits-in-n-that-divide-it.cpp) | 🟡 Medium | `Difficulty: Medium` |
+| 0060 | [First And Last In Sorted](./Difficulty%3A%20Medium/First%20and%20Last%20in%20Sorted) | [first-and-last-in-sorted](./Difficulty%3A%20Medium/First%20and%20Last%20in%20Sorted/first-and-last-in-sorted.cpp) | 🟡 Medium | `Difficulty: Medium` |
+| 0061 | [Flattening A Linked List](./Difficulty%3A%20Medium/Flattening%20a%20Linked%20List) | [flattening-a-linked-list](./Difficulty%3A%20Medium/Flattening%20a%20Linked%20List/flattening-a-linked-list.cpp) | 🟡 Medium | `Difficulty: Medium` / `Linked-List` |
+| 0062 | [Histogram Max Rectangular Area](./Difficulty%3A%20Hard/Histogram%20Max%20Rectangular%20Area) | [histogram-max-rectangular-area](./Difficulty%3A%20Hard/Histogram%20Max%20Rectangular%20Area/histogram-max-rectangular-area.cpp) | 🟡 Medium | `Difficulty: Hard` |
+| 0063 | [Insert At Bottom Of Stack](./Difficulty%3A%20Easy/Insert%20at%20Bottom%20of%20Stack) | [insert-at-bottom-of-stack](./Difficulty%3A%20Easy/Insert%20at%20Bottom%20of%20Stack/insert-at-bottom-of-stack.cpp) | 🟡 Medium | `Difficulty: Easy` / `Stack-Queue` |
+| 0064 | [Lexicographically Previous Permutation](./Difficulty%3A%20Easy/Lexicographically%20Previous%20Permutation) | [lexicographically-previous-permutation](./Difficulty%3A%20Easy/Lexicographically%20Previous%20Permutation/lexicographically-previous-permutation.cpp) | 🟡 Medium | `Difficulty: Easy` / `Linked-List` |
+| 0065 | [Median In A Row Wise Sorted Matrix](./Difficulty%3A%20Medium/Median%20in%20a%20row-wise%20sorted%20Matrix) | [median-in-a-rowwise-sorted-matrix](./Difficulty%3A%20Medium/Median%20in%20a%20row-wise%20sorted%20Matrix/median-in-a-rowwise-sorted-matrix.cpp) | 🟡 Medium | `Difficulty: Medium` / `Arrays` |
+| 0066 | [Merge Without Extra Space](./Difficulty%3A%20Medium/Merge%20Without%20Extra%20Space) | [merge-without-extra-space](./Difficulty%3A%20Medium/Merge%20Without%20Extra%20Space/merge-without-extra-space.cpp) | 🟡 Medium | `Difficulty: Medium` |
+| 0067 | [Merge Two Sorted Linked Lists](./Difficulty%3A%20Medium/Merge%20two%20sorted%20linked%20lists) | [merge-two-sorted-linked-lists](./Difficulty%3A%20Medium/Merge%20two%20sorted%20linked%20lists/merge-two-sorted-linked-lists.cpp) | 🟡 Medium | `Difficulty: Medium` / `Linked-List` |
+| 0068 | [Min Add To Make Parentheses Valid](./Difficulty%3A%20Medium/Min%20Add%20to%20Make%20Parentheses%20Valid) | [min-add-to-make-parentheses-valid](./Difficulty%3A%20Medium/Min%20Add%20to%20Make%20Parentheses%20Valid/min-add-to-make-parentheses-valid.cpp) | 🟡 Medium | `Difficulty: Medium` / `Recursion` |
+| 0069 | [Most Frequent Character](./Difficulty%3A%20Easy/Most%20Frequent%20Character) | [most-frequent-character](./Difficulty%3A%20Easy/Most%20Frequent%20Character/most-frequent-character.cpp) | 🟡 Medium | `Difficulty: Easy` |
+| 0070 | [Next Smaller Element](./Difficulty%3A%20Medium/Next%20Smaller%20Element) | [next-smaller-element](./Difficulty%3A%20Medium/Next%20Smaller%20Element/next-smaller-element.cpp) | 🟡 Medium | `Difficulty: Medium` / `Linked-List` |
+| 0071 | [Nth Root Of M](./Difficulty%3A%20Medium/Nth%20Root%20of%20M) | [nth-root-of-m](./Difficulty%3A%20Medium/Nth%20Root%20of%20M/nth-root-of-m.cpp) | 🟡 Medium | `Difficulty: Medium` |
+| 0072 | [Palindrome Linked List](./Difficulty%3A%20Medium/Palindrome%20Linked%20List) | [palindrome-linked-list](./Difficulty%3A%20Medium/Palindrome%20Linked%20List/palindrome-linked-list.cpp) | 🟡 Medium | `Difficulty: Medium` / `Linked-List` |
+| 0073 | [Possible Words From Phone Digits](./Difficulty%3A%20Medium/Possible%20Words%20From%20Phone%20Digits) | [possible-words-from-phone-digits](./Difficulty%3A%20Medium/Possible%20Words%20From%20Phone%20Digits/possible-words-from-phone-digits.cpp) | 🟡 Medium | `Difficulty: Medium` / `Recursion` |
+| 0074 | [Rat In A Maze](./Difficulty%3A%20Medium/Rat%20in%20a%20Maze) | [rat-in-a-maze](./Difficulty%3A%20Medium/Rat%20in%20a%20Maze/rat-in-a-maze.cpp) | 🟡 Medium | `Difficulty: Medium` |
+| 0075 | [Rearrange Array Alternately](./Difficulty%3A%20Medium/Rearrange%20Array%20Alternately) | [rearrange-array-alternately](./Difficulty%3A%20Medium/Rearrange%20Array%20Alternately/rearrange-array-alternately.cpp) | 🟡 Medium | `Difficulty: Medium` / `Arrays` |
+| 0076 | [Remove Cycle In Linked List](./Difficulty%3A%20Medium/Remove%20Cycle%20in%20Linked%20List) | [remove-cycle-in-linked-list](./Difficulty%3A%20Medium/Remove%20Cycle%20in%20Linked%20List/remove-cycle-in-linked-list.cpp) | 🟡 Medium | `Difficulty: Medium` / `Linked-List` |
+| 0077 | [Remove Duplicates From Linked List](./Difficulty%3A%20Easy/Remove%20Duplicates%20from%20Linked%20List) | [remove-duplicates-from-linked-list](./Difficulty%3A%20Easy/Remove%20Duplicates%20from%20Linked%20List/remove-duplicates-from-linked-list.cpp) | 🟡 Medium | `Difficulty: Easy` / `Linked-List` |
+| 0078 | [Reverse Using Stack](./Difficulty%3A%20Easy/Reverse%20Using%20Stack) | [reverse-using-stack](./Difficulty%3A%20Easy/Reverse%20Using%20Stack/reverse-using-stack.cpp) | 🟡 Medium | `Difficulty: Easy` / `Stack-Queue` |
+| 0079 | [Reverse A Stack](./Difficulty%3A%20Medium/Reverse%20a%20Stack) | [reverse-a-stack](./Difficulty%3A%20Medium/Reverse%20a%20Stack/reverse-a-stack.cpp) | 🟡 Medium | `Difficulty: Medium` / `Stack-Queue` |
+| 0080 | [Reverse A String](./Difficulty%3A%20Basic/Reverse%20a%20String) | [reverse-a-string](./Difficulty%3A%20Basic/Reverse%20a%20String/reverse-a-string.cpp) | 🟡 Medium | `Difficulty: Basic` / `Strings` |
+| 0081 | [Rotate Array](./Difficulty%3A%20Medium/Rotate%20Array) | [rotate-array](./Difficulty%3A%20Medium/Rotate%20Array/rotate-array.cpp) | 🟡 Medium | `Difficulty: Medium` / `Arrays` |
+| 0082 | [Rotate By 90 Degree](./Difficulty%3A%20Medium/Rotate%20by%2090%20degree) | [rotate-by-90-degree](./Difficulty%3A%20Medium/Rotate%20by%2090%20degree/rotate-by-90-degree.cpp) | 🟡 Medium | `Difficulty: Medium` |
+| 0083 | [Row With Max 1s In Rowwise Sorted](./Difficulty%3A%20Medium/Row%20with%20Max%201s%20in%20Rowwise%20Sorted) | [row-with-max-1s-in-rowwise-sorted](./Difficulty%3A%20Medium/Row%20with%20Max%201s%20in%20Rowwise%20Sorted/row-with-max-1s-in-rowwise-sorted.cpp) | 🟡 Medium | `Difficulty: Medium` |
+| 0084 | [Sort A Matrix](./Difficulty%3A%20Basic/Sort%20a%20Matrix) | [sort-a-matrix](./Difficulty%3A%20Basic/Sort%20a%20Matrix/sort-a-matrix.cpp) | 🟡 Medium | `Difficulty: Basic` / `Arrays` |
+| 0085 | [Sort A Linked List Of 0s, 1s And 2s](./Difficulty%3A%20Medium/Sort%20a%20linked%20list%20of%200s%2C%201s%20and%202s) | [sort-a-linked-list-of-0s-1s-and-2s](./Difficulty%3A%20Medium/Sort%20a%20linked%20list%20of%200s%2C%201s%20and%202s/sort-a-linked-list-of-0s-1s-and-2s.cpp) | 🟡 Medium | `Difficulty: Medium` / `Linked-List` |
+| 0086 | [Sort A Stack](./Difficulty%3A%20Medium/Sort%20a%20stack) | [sort-a-stack](./Difficulty%3A%20Medium/Sort%20a%20stack/sort-a-stack.cpp) | 🟡 Medium | `Difficulty: Medium` / `Stack-Queue` |
+| 0087 | [Spirally Traversing A Matrix](./Difficulty%3A%20Medium/Spirally%20Traversing%20a%20Matrix) | [spirally-traversing-a-matrix](./Difficulty%3A%20Medium/Spirally%20Traversing%20a%20Matrix/spirally-traversing-a-matrix.cpp) | 🟡 Medium | `Difficulty: Medium` / `Linked-List` |
+| 0088 | [Two Stacks In An Array](./Difficulty%3A%20Medium/Two%20Stacks%20in%20an%20Array) | [two-stacks-in-an-array](./Difficulty%3A%20Medium/Two%20Stacks%20in%20an%20Array/two-stacks-in-an-array.cpp) | 🟡 Medium | `Difficulty: Medium` / `Stack-Queue` |
+| 0089 | [Unique Number II](./Difficulty%3A%20Medium/Unique%20Number%20II) | [unique-number-ii](./Difficulty%3A%20Medium/Unique%20Number%20II/unique-number-ii.cpp) | 🟡 Medium | `Difficulty: Medium` |
 
 ---
 
-## ⭐ What You'll Find
-
-- Clean and readable code
-- Proper comments
-- Optimized solutions
-- Multiple approaches (Brute Force → Better → Optimal where applicable)
-- Time & Space Complexity analysis
-
----
-
-## 🤝 Contributions
-
-Suggestions and improvements are always welcome.
-
-If you find this repository helpful, don't forget to **Star ⭐** it.
-
----
-
-## 📬 Connect With Me
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-### ⭐ Happy Coding! 🚀
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/ankushgarg403/DSA/tree/master/0001-two-sum) |
-| [0031-next-permutation](https://github.com/ankushgarg403/DSA/tree/master/0031-next-permutation) |
-| [0046-permutations](https://github.com/ankushgarg403/DSA/tree/master/0046-permutations) |
-| [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
-| [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
-| [0066-plus-one](https://github.com/ankushgarg403/DSA/tree/master/0066-plus-one) |
-| [0074-search-a-2d-matrix](https://github.com/ankushgarg403/DSA/tree/master/0074-search-a-2d-matrix) |
-| [0078-subsets](https://github.com/ankushgarg403/DSA/tree/master/0078-subsets) |
-| [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
-| [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
-| [0204-count-primes](https://github.com/ankushgarg403/DSA/tree/master/0204-count-primes) |
-| [0240-search-a-2d-matrix-ii](https://github.com/ankushgarg403/DSA/tree/master/0240-search-a-2d-matrix-ii) |
-| [0283-move-zeroes](https://github.com/ankushgarg403/DSA/tree/master/0283-move-zeroes) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankushgarg403/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
-| [0724-find-pivot-index](https://github.com/ankushgarg403/DSA/tree/master/0724-find-pivot-index) |
-| [0852-peak-index-in-a-mountain-array](https://github.com/ankushgarg403/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
-| [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
-| [1207-unique-number-of-occurrences](https://github.com/ankushgarg403/DSA/tree/master/1207-unique-number-of-occurrences) |
-| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankushgarg403/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
-| [3115-maximum-prime-difference](https://github.com/ankushgarg403/DSA/tree/master/3115-maximum-prime-difference) |
-## Two Pointers
-|  |
-| ------- |
-| [0031-next-permutation](https://github.com/ankushgarg403/DSA/tree/master/0031-next-permutation) |
-| [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
-| [0125-valid-palindrome](https://github.com/ankushgarg403/DSA/tree/master/0125-valid-palindrome) |
-| [0141-linked-list-cycle](https://github.com/ankushgarg403/DSA/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/ankushgarg403/DSA/tree/master/0142-linked-list-cycle-ii) |
-| [0148-sort-list](https://github.com/ankushgarg403/DSA/tree/master/0148-sort-list) |
-| [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
-| [0234-palindrome-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0234-palindrome-linked-list) |
-| [0283-move-zeroes](https://github.com/ankushgarg403/DSA/tree/master/0283-move-zeroes) |
-| [0344-reverse-string](https://github.com/ankushgarg403/DSA/tree/master/0344-reverse-string) |
-| [0443-string-compression](https://github.com/ankushgarg403/DSA/tree/master/0443-string-compression) |
-| [0567-permutation-in-string](https://github.com/ankushgarg403/DSA/tree/master/0567-permutation-in-string) |
-| [0876-middle-of-the-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0876-middle-of-the-linked-list) |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankushgarg403/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0088-merge-sorted-array) |
-| [0148-sort-list](https://github.com/ankushgarg403/DSA/tree/master/0148-sort-list) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankushgarg403/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/ankushgarg403/DSA/tree/master/0002-add-two-numbers) |
-| [0007-reverse-integer](https://github.com/ankushgarg403/DSA/tree/master/0007-reverse-integer) |
-| [0012-integer-to-roman](https://github.com/ankushgarg403/DSA/tree/master/0012-integer-to-roman) |
-| [0013-roman-to-integer](https://github.com/ankushgarg403/DSA/tree/master/0013-roman-to-integer) |
-| [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
-| [0060-permutation-sequence](https://github.com/ankushgarg403/DSA/tree/master/0060-permutation-sequence) |
-| [0066-plus-one](https://github.com/ankushgarg403/DSA/tree/master/0066-plus-one) |
-| [0069-sqrtx](https://github.com/ankushgarg403/DSA/tree/master/0069-sqrtx) |
-| [0189-rotate-array](https://github.com/ankushgarg403/DSA/tree/master/0189-rotate-array) |
-| [0204-count-primes](https://github.com/ankushgarg403/DSA/tree/master/0204-count-primes) |
-| [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
-| [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
-| [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
-| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankushgarg403/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
-| [3115-maximum-prime-difference](https://github.com/ankushgarg403/DSA/tree/master/3115-maximum-prime-difference) |
-## String
-|  |
-| ------- |
-| [0012-integer-to-roman](https://github.com/ankushgarg403/DSA/tree/master/0012-integer-to-roman) |
-| [0013-roman-to-integer](https://github.com/ankushgarg403/DSA/tree/master/0013-roman-to-integer) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/ankushgarg403/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0020-valid-parentheses](https://github.com/ankushgarg403/DSA/tree/master/0020-valid-parentheses) |
-| [0125-valid-palindrome](https://github.com/ankushgarg403/DSA/tree/master/0125-valid-palindrome) |
-| [0344-reverse-string](https://github.com/ankushgarg403/DSA/tree/master/0344-reverse-string) |
-| [0443-string-compression](https://github.com/ankushgarg403/DSA/tree/master/0443-string-compression) |
-| [0567-permutation-in-string](https://github.com/ankushgarg403/DSA/tree/master/0567-permutation-in-string) |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankushgarg403/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankushgarg403/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-| [1910-remove-all-occurrences-of-a-substring](https://github.com/ankushgarg403/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/ankushgarg403/DSA/tree/master/0020-valid-parentheses) |
-| [0234-palindrome-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0234-palindrome-linked-list) |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankushgarg403/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankushgarg403/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-| [1910-remove-all-occurrences-of-a-substring](https://github.com/ankushgarg403/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
-## Simulation
-|  |
-| ------- |
-| [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
-| [1910-remove-all-occurrences-of-a-substring](https://github.com/ankushgarg403/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/ankushgarg403/DSA/tree/master/0001-two-sum) |
-| [0012-integer-to-roman](https://github.com/ankushgarg403/DSA/tree/master/0012-integer-to-roman) |
-| [0013-roman-to-integer](https://github.com/ankushgarg403/DSA/tree/master/0013-roman-to-integer) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/ankushgarg403/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0138-copy-list-with-random-pointer](https://github.com/ankushgarg403/DSA/tree/master/0138-copy-list-with-random-pointer) |
-| [0141-linked-list-cycle](https://github.com/ankushgarg403/DSA/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/ankushgarg403/DSA/tree/master/0142-linked-list-cycle-ii) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
-| [0567-permutation-in-string](https://github.com/ankushgarg403/DSA/tree/master/0567-permutation-in-string) |
-| [1207-unique-number-of-occurrences](https://github.com/ankushgarg403/DSA/tree/master/1207-unique-number-of-occurrences) |
-## Sliding Window
-|  |
-| ------- |
-| [0567-permutation-in-string](https://github.com/ankushgarg403/DSA/tree/master/0567-permutation-in-string) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0148-sort-list](https://github.com/ankushgarg403/DSA/tree/master/0148-sort-list) |
-| [0191-number-of-1-bits](https://github.com/ankushgarg403/DSA/tree/master/0191-number-of-1-bits) |
-| [0240-search-a-2d-matrix-ii](https://github.com/ankushgarg403/DSA/tree/master/0240-search-a-2d-matrix-ii) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0078-subsets](https://github.com/ankushgarg403/DSA/tree/master/0078-subsets) |
-| [0191-number-of-1-bits](https://github.com/ankushgarg403/DSA/tree/master/0191-number-of-1-bits) |
-| [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
-| [1009-complement-of-base-10-integer](https://github.com/ankushgarg403/DSA/tree/master/1009-complement-of-base-10-integer) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/ankushgarg403/DSA/tree/master/0002-add-two-numbers) |
-| [0021-merge-two-sorted-lists](https://github.com/ankushgarg403/DSA/tree/master/0021-merge-two-sorted-lists) |
-| [0025-reverse-nodes-in-k-group](https://github.com/ankushgarg403/DSA/tree/master/0025-reverse-nodes-in-k-group) |
-| [0060-permutation-sequence](https://github.com/ankushgarg403/DSA/tree/master/0060-permutation-sequence) |
-| [0203-remove-linked-list-elements](https://github.com/ankushgarg403/DSA/tree/master/0203-remove-linked-list-elements) |
-| [0206-reverse-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0206-reverse-linked-list) |
-| [0231-power-of-two](https://github.com/ankushgarg403/DSA/tree/master/0231-power-of-two) |
-| [0234-palindrome-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0234-palindrome-linked-list) |
-| [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
-## Prefix Sum
-|  |
-| ------- |
-| [0724-find-pivot-index](https://github.com/ankushgarg403/DSA/tree/master/0724-find-pivot-index) |
-## Binary Search
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/ankushgarg403/DSA/tree/master/0069-sqrtx) |
-| [0074-search-a-2d-matrix](https://github.com/ankushgarg403/DSA/tree/master/0074-search-a-2d-matrix) |
-| [0240-search-a-2d-matrix-ii](https://github.com/ankushgarg403/DSA/tree/master/0240-search-a-2d-matrix-ii) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankushgarg403/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-| [0852-peak-index-in-a-mountain-array](https://github.com/ankushgarg403/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/ankushgarg403/DSA/tree/master/0048-rotate-image) |
-| [0054-spiral-matrix](https://github.com/ankushgarg403/DSA/tree/master/0054-spiral-matrix) |
-| [0074-search-a-2d-matrix](https://github.com/ankushgarg403/DSA/tree/master/0074-search-a-2d-matrix) |
-| [0240-search-a-2d-matrix-ii](https://github.com/ankushgarg403/DSA/tree/master/0240-search-a-2d-matrix-ii) |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankushgarg403/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-## Enumeration
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/ankushgarg403/DSA/tree/master/0204-count-primes) |
-## Number Theory
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/ankushgarg403/DSA/tree/master/0204-count-primes) |
-| [3115-maximum-prime-difference](https://github.com/ankushgarg403/DSA/tree/master/3115-maximum-prime-difference) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ankushgarg403/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
-| [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
-## Memoization
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/ankushgarg403/DSA/tree/master/0509-fibonacci-number) |
-## Minimax
-|  |
-| ------- |
-| [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
-## Game Theory
-|  |
-| ------- |
-| [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
-## Zero-Sum Game
-|  |
-| ------- |
-| [0877-stone-game](https://github.com/ankushgarg403/DSA/tree/master/0877-stone-game) |
-## Backtracking
-|  |
-| ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/ankushgarg403/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0046-permutations](https://github.com/ankushgarg403/DSA/tree/master/0046-permutations) |
-| [0078-subsets](https://github.com/ankushgarg403/DSA/tree/master/0078-subsets) |
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/ankushgarg403/DSA/tree/master/0002-add-two-numbers) |
-| [0021-merge-two-sorted-lists](https://github.com/ankushgarg403/DSA/tree/master/0021-merge-two-sorted-lists) |
-| [0025-reverse-nodes-in-k-group](https://github.com/ankushgarg403/DSA/tree/master/0025-reverse-nodes-in-k-group) |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/ankushgarg403/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
-| [0138-copy-list-with-random-pointer](https://github.com/ankushgarg403/DSA/tree/master/0138-copy-list-with-random-pointer) |
-| [0141-linked-list-cycle](https://github.com/ankushgarg403/DSA/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/ankushgarg403/DSA/tree/master/0142-linked-list-cycle-ii) |
-| [0148-sort-list](https://github.com/ankushgarg403/DSA/tree/master/0148-sort-list) |
-| [0203-remove-linked-list-elements](https://github.com/ankushgarg403/DSA/tree/master/0203-remove-linked-list-elements) |
-| [0206-reverse-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0234-palindrome-linked-list) |
-| [0876-middle-of-the-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0876-middle-of-the-linked-list) |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankushgarg403/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
-## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/ankushgarg403/DSA/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/ankushgarg403/DSA/tree/master/0142-linked-list-cycle-ii) |
-## Merge Sort
-|  |
-| ------- |
-| [0148-sort-list](https://github.com/ankushgarg403/DSA/tree/master/0148-sort-list) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/ankushgarg403/DSA/tree/master/0020-valid-parentheses) |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankushgarg403/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-## Primality Test
-|  |
-| ------- |
-| [3115-maximum-prime-difference](https://github.com/ankushgarg403/DSA/tree/master/3115-maximum-prime-difference) |
-## Greedy
-|  |
-| ------- |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankushgarg403/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-<!---LeetCode Topics End-->
+<p align="center">
+  Crafted with ❤️ for Problem Solvers by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+</p>
