@@ -1,15 +1,3 @@
-# 🚀 TUF-Solutions
-
-> Auto-synced using [TUFHub](https://github.com/Arora-Sir/TUFHub) - Solutions for [TakeUForward (TUF+)](https://takeuforward.org/plus?affiliate=arorasir)
-
-## 📊 Solution Progress Summary
-
-| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
-| :---: | :---: | :---: | :---: | :---: |
-| **89** | 0 | 89 | 0 | `2026-09-10` |
-
----
-
 ## 🗂️ Solved Problems Index
 
 | # | Title | Solution(s) | Difficulty | Category |
