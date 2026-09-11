@@ -1,0 +1,12 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1">Prefix to Infix Conversion</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p class="PDq2pG_selectionAnchorContainer" data-start="72" data-end="337"><span style="font-size: 14pt;">Given a string <strong>s</strong> representing a valid mathematical expression in prefix notation. The string consists of uppercase and lowercase English letters as operands, and the operators <strong>+</strong>, <strong>-</strong>, <strong>*</strong>, <strong>/</strong>, <strong>%</strong>, and <strong>^</strong>.</span></p>
+<p class="PDq2pG_selectionAnchorContainer" data-start="72" data-end="337"><span style="font-size: 14pt;">Convert the given <strong>prefix </strong>expression into its equivalent <strong>fully parenthesized infix</strong> expression and return the resulting string.</span></p>
+<p dir="ltr"><span style="font-size: 14pt;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>s = "*-A/BC-/AKL"
+<strong>Output: </strong>((A-(B/C))*((A/K)-L))
+<strong>Explanation: </strong>The prefix expression starts with '*', so the final operation is multiplication.<br>The left subexpression '-A/BC' converts to '(A-(B/C))', and the right subexpression '-/AKL' converts to '((A/K)-L)'.
+Combining these two subexpressions with '*' gives the fully parenthesized infix expression: ((A-(B/C))*((A/K)-L))
+</span></pre>
+<pre dir="ltr"><span style="font-size: 14pt;"><strong>Input: </strong>s = "+A*BC"<strong><br>Output: </strong>(A+(B*C))<strong><br>Explanation: </strong>The prefix expression starts with '+', so the final operation is addition.
+The left operand is 'A', and the right subexpression '*BC' converts to '(B*C)'.
+Combining them with '+' gives the fully parenthesized infix expression: (A+(B*C))</span></pre>
+<p dir="ltr"><span style="font-size: 14pt;"><strong>Constraints: <br></strong></span><span style="font-size: 14pt;">3 ≤ |S|&nbsp;≤ 10<sup>5</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Stack</code>&nbsp;<code>Strings</code>&nbsp;
