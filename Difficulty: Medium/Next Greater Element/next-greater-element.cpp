@@ -12,12 +12,12 @@ class Solution {
         
         while(i >= 0){
             int el = arr[i];
-            while(st.top() <= el){
-                if(st.top() == -1){
-                    // ans[i] = -1;
-                    // st.push(el);
-                    break;
-                }
+            while(st.top() <= el && st.top() != -1){
+                // if(st.top() == -1){
+                //     // ans[i] = -1;
+                //     // st.push(el);
+                //     break;
+                // }
                 st.pop();
             }
             ans[i] = st.top();
