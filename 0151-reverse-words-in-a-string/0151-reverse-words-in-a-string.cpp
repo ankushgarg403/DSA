@@ -4,14 +4,14 @@ public:
         stringstream ss(s);
 
         string word;
-        string result;
+        string result = "";
         while(ss >> word){
-            result = word;
-            break;
-        }
-
-        while(ss >> word){
-            result = word + " " + result;
+            if(result == ""){
+                result = word;
+            }
+            else{
+                result = word + " " + result;
+            }
         }
 
         return result;
