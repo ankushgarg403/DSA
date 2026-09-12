@@ -24,10 +24,10 @@ public:
             temp = temp + s[i];
         }
 
-        reverse(ans);
-
-        string finall = ans[0];
-        for(int i = 1 ; i < ans.size() ; i++){
+        // reverse(ans);
+        int n = ans.size();
+        string finall = ans[n-1];
+        for(int i = n-2 ; i >= 0 ; i--){
             if(ans[i] != " ")
                 finall = finall + " " + ans[i];
         }
