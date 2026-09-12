@@ -108,4 +108,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ankushgarg403/DSA/tree/master/0155-min-stack) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ankushgarg403/DSA/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ankushgarg403/DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
