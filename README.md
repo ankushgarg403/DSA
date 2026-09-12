@@ -97,3 +97,15 @@
 <p align="center">
   Crafted with ❤️ for Problem Solvers by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ankushgarg403/DSA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ankushgarg403/DSA/tree/master/0155-min-stack) |
+<!---LeetCode Topics End-->
