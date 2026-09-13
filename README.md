@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ankushgarg403/DSA/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -116,4 +117,12 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ankushgarg403/DSA/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
