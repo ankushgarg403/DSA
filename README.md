@@ -103,6 +103,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ankushgarg403/DSA/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
 ## Design
@@ -112,6 +113,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ankushgarg403/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -120,11 +122,13 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
@@ -138,4 +142,8 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
