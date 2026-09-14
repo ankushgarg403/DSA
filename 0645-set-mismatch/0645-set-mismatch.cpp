@@ -5,7 +5,7 @@ public:
 
         int n = nums.size();
 
-        vector<int> ans;
+        // vector<int> ans;
 
         int i = 0;
         int j = 1;
@@ -13,7 +13,6 @@ public:
         while(j < n){
             if(nums[i] == nums[j]){
                 el = nums[i];
-                ans.push_back(nums[i]);
                 break;
             }
             i++;
@@ -24,8 +23,8 @@ public:
         for(int i = 0 ; i < n ; i++){
             sum2 = sum2 + nums[i];
         }
-        ans.push_back(sum - sum2 + el);
+        // ans.push_back(sum - sum2 + el);
 
-        return ans;
+        return {el,sum - sum2 + el};
     }
 };
