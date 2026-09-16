@@ -106,6 +106,7 @@
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ankushgarg403/DSA/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ankushgarg403/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushgarg403/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -127,6 +128,7 @@
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
+| [0735-asteroid-collision](https://github.com/ankushgarg403/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushgarg403/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -153,4 +155,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ankushgarg403/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
