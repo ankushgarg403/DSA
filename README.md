@@ -144,6 +144,7 @@
 | [0735-asteroid-collision](https://github.com/ankushgarg403/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushgarg403/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [3925-concatenate-array-with-reverse](https://github.com/ankushgarg403/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ankushgarg403/DSA/tree/master/0735-asteroid-collision) |
+| [3925-concatenate-array-with-reverse](https://github.com/ankushgarg403/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
