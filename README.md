@@ -132,6 +132,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankushgarg403/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/ankushgarg403/DSA/tree/master/0735-asteroid-collision) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankushgarg403/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
 ## Greedy
 |  |
 | ------- |
@@ -180,4 +182,20 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ankushgarg403/DSA/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
