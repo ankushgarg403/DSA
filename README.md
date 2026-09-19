@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ankushgarg403/DSA/tree/master/0009-palindrome-number) |
+| [2235-add-two-integers](https://github.com/ankushgarg403/DSA/tree/master/2235-add-two-integers) |
 ## Linked List
 |  |
 | ------- |
