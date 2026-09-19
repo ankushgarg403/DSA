@@ -115,6 +115,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ankushgarg403/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ankushgarg403/DSA/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/ankushgarg403/DSA/tree/master/0901-online-stock-span) |
 ## Two Pointers
@@ -153,6 +154,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ankushgarg403/DSA/tree/master/0146-lru-cache) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
@@ -204,4 +206,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ankushgarg403/DSA/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ankushgarg403/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ankushgarg403/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
