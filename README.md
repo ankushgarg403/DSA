@@ -200,4 +200,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ankushgarg403/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
