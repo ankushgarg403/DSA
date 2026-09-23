@@ -18,10 +18,6 @@ private:
     }
 public:
     int lengthOfLastWord(string s) {
-        if(s.length() == 1){
-
-            return 1;
-        }
         int count = removespace(s);
         return count;
     }
