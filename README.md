@@ -141,6 +141,7 @@
 | [0011-container-with-most-water](https://github.com/ankushgarg403/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankushgarg403/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/ankushgarg403/DSA/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/ankushgarg403/DSA/tree/master/0622-design-circular-queue) |
@@ -167,6 +168,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ankushgarg403/DSA/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
