@@ -142,6 +142,7 @@
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankushgarg403/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/ankushgarg403/DSA/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/ankushgarg403/DSA/tree/master/0622-design-circular-queue) |
@@ -174,6 +175,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
@@ -212,6 +214,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -234,4 +237,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ankushgarg403/DSA/tree/master/0146-lru-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
