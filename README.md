@@ -125,6 +125,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankushgarg403/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ankushgarg403/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/ankushgarg403/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [3794-reverse-string-prefix](https://github.com/ankushgarg403/DSA/tree/master/3794-reverse-string-prefix) |
 ## String
@@ -140,6 +141,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankushgarg403/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ankushgarg403/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankushgarg403/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/ankushgarg403/DSA/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -175,6 +177,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ankushgarg403/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
@@ -245,4 +248,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ankushgarg403/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ankushgarg403/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
