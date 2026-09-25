@@ -148,6 +148,7 @@
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/ankushgarg403/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ankushgarg403/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushgarg403/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3925-concatenate-array-with-reverse](https://github.com/ankushgarg403/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Monotonic Stack
@@ -194,6 +195,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankushgarg403/DSA/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/ankushgarg403/DSA/tree/master/0402-remove-k-digits) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ankushgarg403/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Data Stream
 |  |
 | ------- |
