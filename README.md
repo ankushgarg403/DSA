@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ankushgarg403/DSA/tree/master/0136-single-number) |
+| [0461-hamming-distance](https://github.com/ankushgarg403/DSA/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
