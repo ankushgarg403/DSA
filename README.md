@@ -180,6 +180,7 @@
 | [0136-single-number](https://github.com/ankushgarg403/DSA/tree/master/0136-single-number) |
 | [0461-hamming-distance](https://github.com/ankushgarg403/DSA/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ankushgarg403/DSA/tree/master/0009-palindrome-number) |
 | [0445-add-two-numbers-ii](https://github.com/ankushgarg403/DSA/tree/master/0445-add-two-numbers-ii) |
+| [1486-xor-operation-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/ankushgarg403/DSA/tree/master/2235-add-two-integers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankushgarg403/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
