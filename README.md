@@ -147,6 +147,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankushgarg403/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ankushgarg403/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ankushgarg403/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankushgarg403/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankushgarg403/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ankushgarg403/DSA/tree/master/0053-maximum-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -261,6 +263,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ankushgarg403/DSA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
