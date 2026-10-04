@@ -114,6 +114,7 @@
 | [0735-asteroid-collision](https://github.com/ankushgarg403/DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/ankushgarg403/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankushgarg403/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushgarg403/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -144,6 +145,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ankushgarg403/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/ankushgarg403/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankushgarg403/DSA/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankushgarg403/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3794-reverse-string-prefix](https://github.com/ankushgarg403/DSA/tree/master/3794-reverse-string-prefix) |
 | [4030-check-ascii-palindromic](https://github.com/ankushgarg403/DSA/tree/master/4030-check-ascii-palindromic) |
 ## Array
@@ -181,6 +183,7 @@
 | [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ankushgarg403/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankushgarg403/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushgarg403/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -228,6 +231,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ankushgarg403/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankushgarg403/DSA/tree/master/0402-remove-k-digits) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankushgarg403/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankushgarg403/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Data Stream
 |  |
