@@ -145,6 +145,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ankushgarg403/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/ankushgarg403/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankushgarg403/DSA/tree/master/0402-remove-k-digits) |
+| [0796-rotate-string](https://github.com/ankushgarg403/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankushgarg403/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3794-reverse-string-prefix](https://github.com/ankushgarg403/DSA/tree/master/3794-reverse-string-prefix) |
 | [4030-check-ascii-palindromic](https://github.com/ankushgarg403/DSA/tree/master/4030-check-ascii-palindromic) |
@@ -308,4 +309,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ankushgarg403/DSA/tree/master/0074-search-a-2d-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ankushgarg403/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
