@@ -1,15 +1,15 @@
+#include<iostream>
 class Solution {
 public:
     bool rotateString(string s, string goal) {
         int n = s.length();
-        int j = 0;
-        for(int i = 0 ; i < n ; i++){
-            if(s == goal){
-                return true;
-            }
-            char ch = s[j];
-            s.erase(s.begin() + j);
-            s.push_back(ch);
+        string temp = "";
+        for(int i = n-1 ; i >= 0 ; i--){
+            char ch = s[i];
+            temp = ch + temp;
+            string remaining = s.substr(0,i);
+            string ans = temp + remaining;
+            if(ans == goal) return true;
         }
         return false;
     }
