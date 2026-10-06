@@ -147,6 +147,7 @@
 | [0402-remove-k-digits](https://github.com/ankushgarg403/DSA/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/ankushgarg403/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankushgarg403/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1528-shuffle-string](https://github.com/ankushgarg403/DSA/tree/master/1528-shuffle-string) |
 | [3794-reverse-string-prefix](https://github.com/ankushgarg403/DSA/tree/master/3794-reverse-string-prefix) |
 | [4030-check-ascii-palindromic](https://github.com/ankushgarg403/DSA/tree/master/4030-check-ascii-palindromic) |
 ## Array
@@ -170,6 +171,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0908-smallest-range-i](https://github.com/ankushgarg403/DSA/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
+| [1528-shuffle-string](https://github.com/ankushgarg403/DSA/tree/master/1528-shuffle-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankushgarg403/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushgarg403/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankushgarg403/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
