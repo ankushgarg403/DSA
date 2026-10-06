@@ -147,6 +147,7 @@
 | [0402-remove-k-digits](https://github.com/ankushgarg403/DSA/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/ankushgarg403/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankushgarg403/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1154-day-of-the-year](https://github.com/ankushgarg403/DSA/tree/master/1154-day-of-the-year) |
 | [1528-shuffle-string](https://github.com/ankushgarg403/DSA/tree/master/1528-shuffle-string) |
 | [3794-reverse-string-prefix](https://github.com/ankushgarg403/DSA/tree/master/3794-reverse-string-prefix) |
 | [4030-check-ascii-palindromic](https://github.com/ankushgarg403/DSA/tree/master/4030-check-ascii-palindromic) |
@@ -265,6 +266,7 @@
 | [0445-add-two-numbers-ii](https://github.com/ankushgarg403/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0908-smallest-range-i](https://github.com/ankushgarg403/DSA/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
+| [1154-day-of-the-year](https://github.com/ankushgarg403/DSA/tree/master/1154-day-of-the-year) |
 | [1486-xor-operation-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/ankushgarg403/DSA/tree/master/2235-add-two-integers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankushgarg403/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
