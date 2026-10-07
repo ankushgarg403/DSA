@@ -142,6 +142,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ankushgarg403/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/ankushgarg403/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ankushgarg403/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ankushgarg403/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/ankushgarg403/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankushgarg403/DSA/tree/master/0402-remove-k-digits) |
@@ -199,6 +200,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ankushgarg403/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ankushgarg403/DSA/tree/master/0136-single-number) |
 | [0461-hamming-distance](https://github.com/ankushgarg403/DSA/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
@@ -221,6 +223,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ankushgarg403/DSA/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/ankushgarg403/DSA/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankushgarg403/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3925-concatenate-array-with-reverse](https://github.com/ankushgarg403/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -264,6 +267,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ankushgarg403/DSA/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/ankushgarg403/DSA/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/ankushgarg403/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0908-smallest-range-i](https://github.com/ankushgarg403/DSA/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
