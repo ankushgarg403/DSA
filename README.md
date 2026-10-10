@@ -144,6 +144,7 @@
 | [0058-length-of-last-word](https://github.com/ankushgarg403/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ankushgarg403/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ankushgarg403/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ankushgarg403/DSA/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/ankushgarg403/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankushgarg403/DSA/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/ankushgarg403/DSA/tree/master/0520-detect-capital) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ankushgarg403/DSA/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/ankushgarg403/DSA/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
