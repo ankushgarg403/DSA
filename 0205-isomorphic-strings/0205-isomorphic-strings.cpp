@@ -4,6 +4,11 @@ public:
         map<char,char> m1;
         map<char,char> m2;
 
+        int len = s.length();
+
+
+        if(len != t.length()) return false;
+
         for(int i = 0 ; i < s.length() ; i++){
             char el = s[i];
             // if(m.find(el) != m.end())
