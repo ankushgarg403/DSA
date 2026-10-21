@@ -175,6 +175,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0908-smallest-range-i](https://github.com/ankushgarg403/DSA/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ankushgarg403/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1528-shuffle-string](https://github.com/ankushgarg403/DSA/tree/master/1528-shuffle-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankushgarg403/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushgarg403/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ankushgarg403/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ankushgarg403/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## String Matching
 |  |
 | ------- |
