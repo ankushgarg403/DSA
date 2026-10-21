@@ -21,17 +21,17 @@ public:
             maxi.push_back(m);
         }
 
-        vector<int> ans;
+        // vector<int> ans;
 
         for (int i = 0; i < row; i++) {
             for (int j = 0; j < col; j++) {
                 if (matrix[i][j] == mini[i] &&
                     matrix[i][j] == maxi[j]) {
-                    ans.push_back(matrix[i][j]);
+                    return {matrix[i][j]};
                 }
             }
         }
 
-        return ans;
+        return {};
     }
 };
