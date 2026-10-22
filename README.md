@@ -141,6 +141,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ankushgarg403/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0038-count-and-say](https://github.com/ankushgarg403/DSA/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/ankushgarg403/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ankushgarg403/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ankushgarg403/DSA/tree/master/0151-reverse-words-in-a-string) |
