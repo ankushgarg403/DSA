@@ -126,6 +126,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankushgarg403/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ankushgarg403/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ankushgarg403/DSA/tree/master/0075-sort-colors) |
@@ -140,6 +141,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankushgarg403/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ankushgarg403/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/ankushgarg403/DSA/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/ankushgarg403/DSA/tree/master/0058-length-of-last-word) |
@@ -221,6 +223,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankushgarg403/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ankushgarg403/DSA/tree/master/0053-maximum-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -327,4 +330,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ankushgarg403/DSA/tree/master/0796-rotate-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankushgarg403/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
