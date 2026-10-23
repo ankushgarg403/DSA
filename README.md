@@ -179,6 +179,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0908-smallest-range-i](https://github.com/ankushgarg403/DSA/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
+| [1029-two-city-scheduling](https://github.com/ankushgarg403/DSA/tree/master/1029-two-city-scheduling) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ankushgarg403/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1528-shuffle-string](https://github.com/ankushgarg403/DSA/tree/master/1528-shuffle-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankushgarg403/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -221,6 +222,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
+| [1029-two-city-scheduling](https://github.com/ankushgarg403/DSA/tree/master/1029-two-city-scheduling) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ankushgarg403/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankushgarg403/DSA/tree/master/0402-remove-k-digits) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
+| [1029-two-city-scheduling](https://github.com/ankushgarg403/DSA/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankushgarg403/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankushgarg403/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Data Stream
@@ -340,4 +343,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ankushgarg403/DSA/tree/master/1143-longest-common-subsequence) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/ankushgarg403/DSA/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/ankushgarg403/DSA/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
