@@ -153,6 +153,7 @@
 | [0520-detect-capital](https://github.com/ankushgarg403/DSA/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/ankushgarg403/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankushgarg403/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/ankushgarg403/DSA/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/ankushgarg403/DSA/tree/master/1154-day-of-the-year) |
 | [1528-shuffle-string](https://github.com/ankushgarg403/DSA/tree/master/1528-shuffle-string) |
 | [3794-reverse-string-prefix](https://github.com/ankushgarg403/DSA/tree/master/3794-reverse-string-prefix) |
@@ -227,6 +228,7 @@
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ankushgarg403/DSA/tree/master/0053-maximum-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/ankushgarg403/DSA/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -334,4 +336,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankushgarg403/DSA/tree/master/0005-longest-palindromic-substring) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ankushgarg403/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
