@@ -282,6 +282,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ankushgarg403/DSA/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/ankushgarg403/DSA/tree/master/0067-add-binary) |
+| [0367-valid-perfect-square](https://github.com/ankushgarg403/DSA/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/ankushgarg403/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0908-smallest-range-i](https://github.com/ankushgarg403/DSA/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
@@ -330,6 +331,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankushgarg403/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ankushgarg403/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/ankushgarg403/DSA/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
 | ------- |
