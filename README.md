@@ -171,6 +171,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankushgarg403/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankushgarg403/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/ankushgarg403/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ankushgarg403/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ankushgarg403/DSA/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/ankushgarg403/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ankushgarg403/DSA/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ankushgarg403/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ankushgarg403/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ankushgarg403/DSA/tree/master/0414-third-maximum-number) |
@@ -309,6 +312,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ankushgarg403/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ankushgarg403/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -359,4 +363,12 @@
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/ankushgarg403/DSA/tree/master/1029-two-city-scheduling) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ankushgarg403/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ankushgarg403/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
