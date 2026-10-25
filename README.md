@@ -178,6 +178,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ankushgarg403/DSA/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/ankushgarg403/DSA/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/ankushgarg403/DSA/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/ankushgarg403/DSA/tree/master/0735-asteroid-collision) |
@@ -230,6 +231,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ankushgarg403/DSA/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/ankushgarg403/DSA/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
 | [1029-two-city-scheduling](https://github.com/ankushgarg403/DSA/tree/master/1029-two-city-scheduling) |
@@ -260,6 +262,7 @@
 | [0011-container-with-most-water](https://github.com/ankushgarg403/DSA/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/ankushgarg403/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankushgarg403/DSA/tree/master/0402-remove-k-digits) |
+| [0561-array-partition](https://github.com/ankushgarg403/DSA/tree/master/0561-array-partition) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
 | [1029-two-city-scheduling](https://github.com/ankushgarg403/DSA/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankushgarg403/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -375,4 +378,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankushgarg403/DSA/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ankushgarg403/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
