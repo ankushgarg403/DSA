@@ -107,6 +107,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ankushgarg403/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/ankushgarg403/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ankushgarg403/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ankushgarg403/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/ankushgarg403/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankushgarg403/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/ankushgarg403/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/ankushgarg403/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ankushgarg403/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ankushgarg403/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/ankushgarg403/DSA/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/ankushgarg403/DSA/tree/master/0901-online-stock-span) |
 ## Two Pointers
@@ -278,6 +280,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ankushgarg403/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/ankushgarg403/DSA/tree/master/0622-design-circular-queue) |
 ## Sliding Window
