@@ -1,7 +1,6 @@
 class MinStack {
-    long long arr[10000000];
-    int size = 10000000;
-    int top1 ;
+    long long arr[1000000];
+    int top1;
     long long mini;
 public:
     MinStack() {
@@ -16,7 +15,7 @@ public:
             arr[top1] = value;
         }
         else{
-            if(value >= mini){
+            if(mini < value){
                 top1++;
                 arr[top1] = value;
             }
@@ -30,29 +29,29 @@ public:
     
     void pop() {
         if(top1 == -1) return;
-        long long x = arr[top1];
+
+        long long i = arr[top1];
         top1--;
 
-        if(x < mini){
-            mini = 2*mini - x;
+        if(mini > i){
+            mini = 2 * mini - i;
         }
     }
     
     int top() {
-        if(top1 == -1){
-            return -1;
-        }
-        long long x = arr[top1];
+        if(top1 == -1) return -1;
 
-        if(mini > x) return (int)mini;
-        return (int)x;
+        long long i = arr[top1];
+
+        if(i > mini) return (int)i;
+        return (int)mini;
     }
     
     int getMin() {
-        if(top1 == -1){
-            return -1;
-        }
+        if(top1 == -1) return -1;
+
         return mini;
+        
     }
 };
 
@@ -61,6 +60,6 @@ public:
  * MinStack* obj = new MinStack();
  * obj->push(value);
  * obj->pop();
- * int param_3 = obj->top11();
+ * int param_3 = obj->top();
  * int param_4 = obj->getMin();
  */
