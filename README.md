@@ -139,6 +139,7 @@
 | [0143-reorder-list](https://github.com/ankushgarg403/DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ankushgarg403/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/ankushgarg403/DSA/tree/master/0541-reverse-string-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankushgarg403/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3794-reverse-string-prefix](https://github.com/ankushgarg403/DSA/tree/master/3794-reverse-string-prefix) |
 | [4030-check-ascii-palindromic](https://github.com/ankushgarg403/DSA/tree/master/4030-check-ascii-palindromic) |
@@ -157,6 +158,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ankushgarg403/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankushgarg403/DSA/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/ankushgarg403/DSA/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/ankushgarg403/DSA/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/ankushgarg403/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankushgarg403/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/ankushgarg403/DSA/tree/master/1143-longest-common-subsequence) |
