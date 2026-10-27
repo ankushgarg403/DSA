@@ -103,6 +103,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankushgarg403/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankushgarg403/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/ankushgarg403/DSA/tree/master/0143-reorder-list) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankushgarg403/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ankushgarg403/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/ankushgarg403/DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ankushgarg403/DSA/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/ankushgarg403/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ankushgarg403/DSA/tree/master/0067-add-binary) |
@@ -390,4 +392,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ankushgarg403/DSA/tree/master/0561-array-partition) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankushgarg403/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
