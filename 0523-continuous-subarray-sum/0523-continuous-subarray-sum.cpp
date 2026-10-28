@@ -9,7 +9,8 @@ public:
         for(int i = 0 ; i < nums.size() ; i++){
             sum += nums[i];
 
-            int rem = (k == 0) ? sum : sum%k;
+            // int rem = (k == 0) ? sum : sum%k;
+            int rem = sum%k;
 
             if(mp.find(rem) != mp.end()){
                 if(i - mp[rem] >= 2){
