@@ -187,6 +187,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ankushgarg403/DSA/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/ankushgarg403/DSA/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/ankushgarg403/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/ankushgarg403/DSA/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/ankushgarg403/DSA/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
@@ -223,6 +224,7 @@
 | [0205-isomorphic-strings](https://github.com/ankushgarg403/DSA/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/ankushgarg403/DSA/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0523-continuous-subarray-sum](https://github.com/ankushgarg403/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
@@ -307,6 +309,7 @@
 | [0067-add-binary](https://github.com/ankushgarg403/DSA/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/ankushgarg403/DSA/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/ankushgarg403/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0523-continuous-subarray-sum](https://github.com/ankushgarg403/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0908-smallest-range-i](https://github.com/ankushgarg403/DSA/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
 | [1154-day-of-the-year](https://github.com/ankushgarg403/DSA/tree/master/1154-day-of-the-year) |
@@ -398,4 +401,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankushgarg403/DSA/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ankushgarg403/DSA/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ankushgarg403/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
