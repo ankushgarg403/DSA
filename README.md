@@ -185,6 +185,7 @@
 | [0136-single-number](https://github.com/ankushgarg403/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ankushgarg403/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ankushgarg403/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ankushgarg403/DSA/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ankushgarg403/DSA/tree/master/0414-third-maximum-number) |
@@ -224,6 +225,7 @@
 | [0146-lru-cache](https://github.com/ankushgarg403/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ankushgarg403/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ankushgarg403/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ankushgarg403/DSA/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/ankushgarg403/DSA/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/ankushgarg403/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -243,6 +245,7 @@
 | [0075-sort-colors](https://github.com/ankushgarg403/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ankushgarg403/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ankushgarg403/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ankushgarg403/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ankushgarg403/DSA/tree/master/0561-array-partition) |
