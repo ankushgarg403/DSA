@@ -10,31 +10,18 @@
  * };
  */
 class Solution {
-private:
-    void inorder(TreeNode* p , TreeNode* q , bool &flag){
-        if(p == NULL && q == NULL) return;
-
-        if(p == NULL && q != NULL){
-            flag = false;
-            return;
-        }
-        else if(q == NULL && p != NULL){
-            flag = false;
-            return;
-        }
-        
-        else if(q -> val != p -> val){
-            flag = false;
-        }
-        inorder(p -> left , q -> left , flag);
-                
-        inorder(p -> right , q -> right , flag);
-    }
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        bool flag = true;
-        inorder(p,q,flag);
+        if(p == NULL && q == NULL) return true;
+        if(p == NULL && q != NULL) return false;
+        if(p != NULL && q == NULL) return false;
 
-        return (flag);
+        bool left = isSameTree(p -> left , q -> left);
+        bool right = isSameTree(p -> right , q -> right);
+
+        bool val = p -> val == q -> val;
+
+        if(left && right && val) return true;
+        return false;
     }
 };
