@@ -184,6 +184,7 @@
 | [0075-sort-colors](https://github.com/ankushgarg403/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankushgarg403/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankushgarg403/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankushgarg403/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ankushgarg403/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ankushgarg403/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankushgarg403/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -260,6 +261,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ankushgarg403/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ankushgarg403/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ankushgarg403/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankushgarg403/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankushgarg403/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/ankushgarg403/DSA/tree/master/1143-longest-common-subsequence) |
 ## Simulation
