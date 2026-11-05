@@ -234,6 +234,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankushgarg403/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/ankushgarg403/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,6 +256,7 @@
 | [0561-array-partition](https://github.com/ankushgarg403/DSA/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 | [0910-smallest-range-ii](https://github.com/ankushgarg403/DSA/tree/master/0910-smallest-range-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/ankushgarg403/DSA/tree/master/1029-two-city-scheduling) |
 ## Dynamic Programming
 |  |
@@ -431,6 +433,7 @@
 | [0110-balanced-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankushgarg403/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ankushgarg403/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -441,6 +444,7 @@
 | [0110-balanced-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankushgarg403/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -448,6 +452,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankushgarg403/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankushgarg403/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -458,6 +463,7 @@
 | [0110-balanced-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankushgarg403/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ankushgarg403/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## DP on Trees
 |  |
