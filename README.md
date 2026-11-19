@@ -239,6 +239,7 @@
 | [0523-continuous-subarray-sum](https://github.com/ankushgarg403/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/ankushgarg403/DSA/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankushgarg403/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -449,6 +450,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ankushgarg403/DSA/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankushgarg403/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -464,6 +466,7 @@
 | [0437-path-sum-iii](https://github.com/ankushgarg403/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankushgarg403/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -474,6 +477,7 @@
 | [0112-path-sum](https://github.com/ankushgarg403/DSA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/ankushgarg403/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankushgarg403/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -493,6 +497,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ankushgarg403/DSA/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankushgarg403/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
 | ------- |
