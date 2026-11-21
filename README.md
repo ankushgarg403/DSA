@@ -448,6 +448,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankushgarg403/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ankushgarg403/DSA/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/ankushgarg403/DSA/tree/master/0404-sum-of-left-leaves) |
@@ -466,6 +467,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankushgarg403/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ankushgarg403/DSA/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/ankushgarg403/DSA/tree/master/0404-sum-of-left-leaves) |
@@ -483,6 +485,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ankushgarg403/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankushgarg403/DSA/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankushgarg403/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankushgarg403/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -501,6 +504,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankushgarg403/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankushgarg403/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankushgarg403/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ankushgarg403/DSA/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/ankushgarg403/DSA/tree/master/0404-sum-of-left-leaves) |
