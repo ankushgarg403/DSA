@@ -11,26 +11,27 @@
  */
 class Solution {
 public:
-    int solve(TreeNode* root , int k , int& i){
-        if(root == NULL) return -1;
+    int kthSmallest(TreeNode* root, int k) {
+        stack<TreeNode*> st;
 
-        int left = solve(root -> left , k , i);
-        if(left != -1){
-            return left;
+        while(root != NULL || !st.empty()){
+            while(root != NULL){
+                st.push(root);
+                root = root -> left;
+            }
+
+            TreeNode* temp = st.top();
+            st.pop();
+
+            k--;
+
+            if(k == 0){
+                return temp -> val;
+            }
+
+            root = temp -> right;
         }
 
-        i++;
-        if(i == k) return root -> val;
-
-        return solve(root -> right , k , i);
-
-
-
-    }
-    int kthSmallest(TreeNode* root, int k) {
-        int i = 0;
-        int ans = solve(root , k , i);
-
-        return ans;
+        return -1;
     }
 };
