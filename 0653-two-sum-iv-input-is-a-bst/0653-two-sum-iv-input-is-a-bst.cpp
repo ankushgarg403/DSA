@@ -22,18 +22,17 @@ public:
         vector<int> nums;
         inorder(root,nums);
 
-        unordered_map<int,int> m;
+        int i = 0;
+        int j = nums.size() - 1;
 
-        for(int i = 0 ; i < nums.size() ; i++){
-            int temp = k - nums[i];
+        while(j > i){
+            int sum = nums[i] + nums[j];
+            if(sum == k) return true;
 
-            if(m.find(temp) != m.end()){
-                return true;
-            }
+            else if(sum > k) j--;
 
-            m[nums[i]] = i;
+            else i++;
         }
-
         return false;
     }
 };
